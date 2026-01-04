@@ -6,13 +6,13 @@ Engineered a real-time face mask detection model using TensorFlow and MobileNetV
 ## 🛠️ Prerequisites
 - Python 3.x
 - Required libraries
-  -tensorflow
-  -numpy
-  -imutils
-  -keras
-  -opencv-python
-  -scipy
-  -matplotlib
+  - tensorflow
+  - numpy
+  - imutils
+  - keras
+  - opencv-python
+  - scipy
+  - matplotlib
 
 
 
