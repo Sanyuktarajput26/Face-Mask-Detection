@@ -13,6 +13,8 @@ Engineered a real-time face mask detection model using TensorFlow and MobileNetV
   - opencv-python
   - scipy
   - matplotlib
+  - tensorflow
+
 
 
 
