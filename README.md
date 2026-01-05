@@ -1,7 +1,7 @@
 # Face Mask Detection
 
 ## 📌 Overview
-Engineered a real-time face mask detection model using TensorFlow and MobileNetV2, achieving 89% accuracy in identifying masked and unmasked faces. Leveraged ImageDataGenerator for dataset augmentation, increasing model robustness by 30%, and refined categorical encoding with LabelBinarizer to enhance processing speed by 20%.
+Face Mask Detection is a computer vision project aimed at detecting whether a person is wearing a face mask or not. The project utilizes deep learning techniques to classify faces into two categories: "With Mask" and "Without Mask." The motivation behind this project is to help enforce mask-wearing policies in public places and contribute to public health and safety during pandemics like COVID-19.
 
 ## 🛠️ Prerequisites
 - Python 3.x
@@ -14,6 +14,11 @@ Engineered a real-time face mask detection model using TensorFlow and MobileNetV
   - scipy
   - matplotlib
   - tensorflow
+ 
+  ## 📊 Dataset
+Dataset used in this project:  
+Download Dataset :- https://www.kaggle.com/datasets/ahmedabdelraouf/face-datasets
+
 
 
 
