@@ -17,6 +17,7 @@ This project was motivated by the need to apply computer vision and deep learnin
   - numpy
   - imutils
   - keras
+  - pandas
   - opencv-python
   - scipy
   - matplotlib
